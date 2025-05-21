@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d5b01cf4ca23c194dba7f62eab793bab
+timeCreated: 1590094865
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82597
+  packageName: VR Video Player
+  packageVersion: 2.1.3
+  assetPath: Assets/Evereal/VRVideoPlayer/Demos/Shaders/UnlitVertColorBakedIllum.shader
+  uploadId: 428469

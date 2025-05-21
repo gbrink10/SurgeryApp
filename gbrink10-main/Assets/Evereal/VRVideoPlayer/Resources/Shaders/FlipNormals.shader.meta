@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2269db3ed766655479717017fc569e46
+timeCreated: 1592729697
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82597
+  packageName: VR Video Player
+  packageVersion: 2.1.3
+  assetPath: Assets/Evereal/VRVideoPlayer/Resources/Shaders/FlipNormals.shader
+  uploadId: 428469

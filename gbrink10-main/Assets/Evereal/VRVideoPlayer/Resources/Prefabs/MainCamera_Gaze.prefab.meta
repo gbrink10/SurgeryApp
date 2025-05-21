@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 116210231ae1248e6894d8f7e9b5d8cd
+timeCreated: 1590563647
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82597
+  packageName: VR Video Player
+  packageVersion: 2.1.3
+  assetPath: Assets/Evereal/VRVideoPlayer/Resources/Prefabs/MainCamera_Gaze.prefab
+  uploadId: 428469

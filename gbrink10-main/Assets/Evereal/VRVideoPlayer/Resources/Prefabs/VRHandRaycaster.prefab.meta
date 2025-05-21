@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f90b9272500c8423ebe001fd6ed94d33
+timeCreated: 1597048697
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82597
+  packageName: VR Video Player
+  packageVersion: 2.1.3
+  assetPath: Assets/Evereal/VRVideoPlayer/Resources/Prefabs/VRHandRaycaster.prefab
+  uploadId: 428469

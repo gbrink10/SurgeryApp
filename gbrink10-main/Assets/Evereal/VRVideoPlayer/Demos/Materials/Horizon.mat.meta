@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 51f93ead96d000c4ea4bd2eca7c9d058
+timeCreated: 1590095114
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82597
+  packageName: VR Video Player
+  packageVersion: 2.1.3
+  assetPath: Assets/Evereal/VRVideoPlayer/Demos/Materials/Horizon.mat
+  uploadId: 428469

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16c86377e3a76114a80de76180995de7
+timeCreated: 1594681764
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82597
+  packageName: VR Video Player
+  packageVersion: 2.1.3
+  assetPath: Assets/Evereal/VRVideoPlayer/Readme.txt
+  uploadId: 428469

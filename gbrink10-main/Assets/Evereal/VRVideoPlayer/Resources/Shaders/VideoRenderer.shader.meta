@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 953bb31c8f91a4520a85fb9de58f6cdd
+timeCreated: 1589625934
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82597
+  packageName: VR Video Player
+  packageVersion: 2.1.3
+  assetPath: Assets/Evereal/VRVideoPlayer/Resources/Shaders/VideoRenderer.shader
+  uploadId: 428469

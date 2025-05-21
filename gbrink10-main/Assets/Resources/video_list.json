@@ -1,0 +1,10 @@
+[
+    {
+      "title": "Test",
+      "uploader": "Dr. Test",
+      "videoUrl": "https://vr-surgery-app-videos.s3.eu-north-1.amazonaws.com/videoplayback1.mp4",
+      "is3D": true,
+      "videoType": "Normal",
+      "stereoFormat": "LeftRight"
+    }
+]

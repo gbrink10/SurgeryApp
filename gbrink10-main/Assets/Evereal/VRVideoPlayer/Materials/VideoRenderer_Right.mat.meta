@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dbfb7233b3ebd43419213189f5cd8676
+timeCreated: 1486399270
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82597
+  packageName: VR Video Player
+  packageVersion: 2.1.3
+  assetPath: Assets/Evereal/VRVideoPlayer/Materials/VideoRenderer_Right.mat
+  uploadId: 428469

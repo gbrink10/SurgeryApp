@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 46fac96496d38450f839e2a21e065154
+timeCreated: 1597048486
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82597
+  packageName: VR Video Player
+  packageVersion: 2.1.3
+  assetPath: Assets/Evereal/VRVideoPlayer/Materials/PointerRenderer.mat
+  uploadId: 428469
